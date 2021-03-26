@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8182ae9f.chunk.css",
-    "main.js": "/static/js/main.ec983700.chunk.js",
-    "main.js.map": "/static/js/main.ec983700.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.44a07205.js",
-    "runtime-main.js.map": "/static/js/runtime-main.44a07205.js.map",
+    "main.css": "/static/css/main.1dbb127b.chunk.css",
+    "main.js": "/static/js/main.607f3aec.chunk.js",
+    "main.js.map": "/static/js/main.607f3aec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5fbf6d1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5fbf6d1e.js.map",
     "static/css/2.1c44f44c.chunk.css": "/static/css/2.1c44f44c.chunk.css",
-    "static/js/2.dee49c84.chunk.js": "/static/js/2.dee49c84.chunk.js",
-    "static/js/2.dee49c84.chunk.js.map": "/static/js/2.dee49c84.chunk.js.map",
-    "static/js/3.901ce9d3.chunk.js": "/static/js/3.901ce9d3.chunk.js",
-    "static/js/3.901ce9d3.chunk.js.map": "/static/js/3.901ce9d3.chunk.js.map",
+    "static/js/2.d48b2a7f.chunk.js": "/static/js/2.d48b2a7f.chunk.js",
+    "static/js/2.d48b2a7f.chunk.js.map": "/static/js/2.d48b2a7f.chunk.js.map",
+    "static/js/3.1a65aa94.chunk.js": "/static/js/3.1a65aa94.chunk.js",
+    "static/js/3.1a65aa94.chunk.js.map": "/static/js/3.1a65aa94.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1c44f44c.chunk.css.map": "/static/css/2.1c44f44c.chunk.css.map",
-    "static/css/main.8182ae9f.chunk.css.map": "/static/css/main.8182ae9f.chunk.css.map",
-    "static/js/2.dee49c84.chunk.js.LICENSE.txt": "/static/js/2.dee49c84.chunk.js.LICENSE.txt",
+    "static/css/main.1dbb127b.chunk.css.map": "/static/css/main.1dbb127b.chunk.css.map",
+    "static/js/2.d48b2a7f.chunk.js.LICENSE.txt": "/static/js/2.d48b2a7f.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/Poppins-Medium.9e1bb626.ttf",
     "static/media/business-3d.2804ab58.png": "/static/media/business-3d.2804ab58.png",
     "static/media/businessmanCoffee.21259a47.png": "/static/media/businessmanCoffee.21259a47.png",
@@ -22,10 +22,10 @@
     "static/media/partner1.371d196b.png": "/static/media/partner1.371d196b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44a07205.js",
+    "static/js/runtime-main.5fbf6d1e.js",
     "static/css/2.1c44f44c.chunk.css",
-    "static/js/2.dee49c84.chunk.js",
-    "static/css/main.8182ae9f.chunk.css",
-    "static/js/main.ec983700.chunk.js"
+    "static/js/2.d48b2a7f.chunk.js",
+    "static/css/main.1dbb127b.chunk.css",
+    "static/js/main.607f3aec.chunk.js"
   ]
 }
