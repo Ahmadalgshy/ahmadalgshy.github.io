@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.74f56e52.chunk.css",
-    "main.js": "/static/js/main.a2c868d8.chunk.js",
-    "main.js.map": "/static/js/main.a2c868d8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eb748851.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eb748851.js.map",
+    "main.js": "/static/js/main.b3165ffb.chunk.js",
+    "main.js.map": "/static/js/main.b3165ffb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9993e3da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9993e3da.js.map",
     "static/css/2.1c44f44c.chunk.css": "/static/css/2.1c44f44c.chunk.css",
-    "static/js/2.f860c840.chunk.js": "/static/js/2.f860c840.chunk.js",
-    "static/js/2.f860c840.chunk.js.map": "/static/js/2.f860c840.chunk.js.map",
-    "static/js/3.4e5bb7f6.chunk.js": "/static/js/3.4e5bb7f6.chunk.js",
-    "static/js/3.4e5bb7f6.chunk.js.map": "/static/js/3.4e5bb7f6.chunk.js.map",
-    "b12d84df8220b303f07f003da2f44be0.js": "/b12d84df8220b303f07f003da2f44be0.js",
+    "static/js/2.76d0863f.chunk.js": "/static/js/2.76d0863f.chunk.js",
+    "static/js/2.76d0863f.chunk.js.map": "/static/js/2.76d0863f.chunk.js.map",
+    "static/js/3.4185886d.chunk.js": "/static/js/3.4185886d.chunk.js",
+    "static/js/3.4185886d.chunk.js.map": "/static/js/3.4185886d.chunk.js.map",
+    "pdf.worker.js": "/b12d84df8220b303f07f003da2f44be0.js",
     "b12d84df8220b303f07f003da2f44be0.js.LICENSE.txt": "/b12d84df8220b303f07f003da2f44be0.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/2.1c44f44c.chunk.css.map": "/static/css/2.1c44f44c.chunk.css.map",
     "static/css/main.74f56e52.chunk.css.map": "/static/css/main.74f56e52.chunk.css.map",
-    "static/js/2.f860c840.chunk.js.LICENSE.txt": "/static/js/2.f860c840.chunk.js.LICENSE.txt",
+    "static/js/2.76d0863f.chunk.js.LICENSE.txt": "/static/js/2.76d0863f.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/Poppins-Medium.9e1bb626.ttf",
     "static/media/business-3d.2804ab58.png": "/static/media/business-3d.2804ab58.png",
     "static/media/businessmanCoffee.21259a47.png": "/static/media/businessmanCoffee.21259a47.png",
@@ -23,10 +23,10 @@
     "static/media/example.abd1d78b.png": "/static/media/example.abd1d78b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb748851.js",
+    "static/js/runtime-main.9993e3da.js",
     "static/css/2.1c44f44c.chunk.css",
-    "static/js/2.f860c840.chunk.js",
+    "static/js/2.76d0863f.chunk.js",
     "static/css/main.74f56e52.chunk.css",
-    "static/js/main.a2c868d8.chunk.js"
+    "static/js/main.b3165ffb.chunk.js"
   ]
 }
