@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.74f56e52.chunk.css",
-    "main.js": "/static/js/main.434c955b.chunk.js",
-    "main.js.map": "/static/js/main.434c955b.chunk.js.map",
+    "main.js": "/static/js/main.e348c0dc.chunk.js",
+    "main.js.map": "/static/js/main.e348c0dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.eb748851.js",
     "runtime-main.js.map": "/static/js/runtime-main.eb748851.js.map",
     "static/css/2.1c44f44c.chunk.css": "/static/css/2.1c44f44c.chunk.css",
@@ -16,25 +16,17 @@
     "static/css/2.1c44f44c.chunk.css.map": "/static/css/2.1c44f44c.chunk.css.map",
     "static/css/main.74f56e52.chunk.css.map": "/static/css/main.74f56e52.chunk.css.map",
     "static/js/2.0d89d159.chunk.js.LICENSE.txt": "/static/js/2.0d89d159.chunk.js.LICENSE.txt",
-    "static/media/Aldt tech website 2.05dc28c2.pdf": "/static/media/Aldt tech website 2.05dc28c2.pdf",
-    "static/media/Aldt tech website Dark mode.ba369607.pdf": "/static/media/Aldt tech website Dark mode.ba369607.pdf",
-    "static/media/Digoria2.f56ac76d.pdf": "/static/media/Digoria2.f56ac76d.pdf",
     "static/media/style.scss": "/static/media/Poppins-Medium.9e1bb626.ttf",
-    "static/media/Red stone Coming soon.d8a23a82.pdf": "/static/media/Red stone Coming soon.d8a23a82.pdf",
-    "static/media/Swirkies website web view December 1.37903364.pdf": "/static/media/Swirkies website web view December 1.37903364.pdf",
-    "static/media/Ticketate design mobile view.783944fd.pdf": "/static/media/Ticketate design mobile view.783944fd.pdf",
-    "static/media/Ticketate design web view.6d1110d1.pdf": "/static/media/Ticketate design web view.6d1110d1.pdf",
     "static/media/business-3d.2804ab58.png": "/static/media/business-3d.2804ab58.png",
     "static/media/businessmanCoffee.21259a47.png": "/static/media/businessmanCoffee.21259a47.png",
     "static/media/businessmanThumbUp.6629777e.png": "/static/media/businessmanThumbUp.6629777e.png",
-    "static/media/example.abd1d78b.png": "/static/media/example.abd1d78b.png",
-    "static/media/yara logo .ba0fd37d.pdf": "/static/media/yara logo .ba0fd37d.pdf"
+    "static/media/example.abd1d78b.png": "/static/media/example.abd1d78b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.eb748851.js",
     "static/css/2.1c44f44c.chunk.css",
     "static/js/2.0d89d159.chunk.js",
     "static/css/main.74f56e52.chunk.css",
-    "static/js/main.434c955b.chunk.js"
+    "static/js/main.e348c0dc.chunk.js"
   ]
 }
